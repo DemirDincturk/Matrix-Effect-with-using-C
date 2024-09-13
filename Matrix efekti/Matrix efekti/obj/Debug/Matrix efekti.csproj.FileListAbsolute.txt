@@ -1,0 +1,7 @@
+D:\vs projeler\Matrix efekti\Matrix efekti\obj\Debug\Matrix efekti.csproj.AssemblyReference.cache
+D:\vs projeler\Matrix efekti\Matrix efekti\obj\Debug\Matrix efekti.csproj.CoreCompileInputs.cache
+D:\vs projeler\Matrix efekti\Matrix efekti\bin\Debug\Matrix efekti.exe.config
+D:\vs projeler\Matrix efekti\Matrix efekti\bin\Debug\Matrix efekti.exe
+D:\vs projeler\Matrix efekti\Matrix efekti\bin\Debug\Matrix efekti.pdb
+D:\vs projeler\Matrix efekti\Matrix efekti\obj\Debug\Matrix efekti.exe
+D:\vs projeler\Matrix efekti\Matrix efekti\obj\Debug\Matrix efekti.pdb
